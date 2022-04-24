@@ -1,7 +1,7 @@
 ## Welcome to my website!
 
 Here is the latist version of my game! 
-[v0.1.0 - Beta](src)
+[v0.1.0 - Beta](YAMS.zip)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
