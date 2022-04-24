@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/CoolGodotCoder/CoolGodotCoder.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here is the latist version of my game! 
+[v0.1.0 - Beta](src)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
