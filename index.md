@@ -9,5 +9,6 @@ Click "Download" in the bottom right corner.
 Links:
 
 [Discord](https://discord.gg/Burpk8Dh8f)
+
 [Game](YAMS.html)
 
